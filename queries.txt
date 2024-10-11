@@ -1,1 +1,1 @@
-query_id=AAFwgw4xAwAAAHCDDjH83Yq-&user=%7B%22id%22%3A7265485680%2C%22first_name%22%3A%22Asif%22%2C%22last_name%22%3A%22Sardar%20%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22username%22%3A%22Asifsardar21%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728480365&hash=71aedcf63f53572ed1644687ed509b16166ddef4428d11f3150e3fadbc653de8
+
